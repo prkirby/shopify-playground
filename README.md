@@ -1,3 +1,7 @@
+# My Personal Shopify Playground
+
+The initial readme can be found below:
+
 [![Build Status](https://travis-ci.org/Shopify/starter-theme.svg?branch=master)](https://travis-ci.org/Shopify/starter-theme)
 
 # Starter Theme
